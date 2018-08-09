@@ -1,9 +1,9 @@
 /*************************************************************************
-  Tópicos Especiais - IoT -
+  Tópicos Especiais - IoT 
   Medidor de Agua
   Indica o nível de volume de agua no recepiente
   Circuito - Potenciomero ligado ao pino A0.
-  Adaptado por  - 02/07/18
+  
 **************************************************************************/
 #define espAgua Serial2
 #define pinResetEsp 4 
